@@ -1,2 +1,1 @@
-# calculator
-A simple calculator using python.
+I created a simple calculator in Python. First, I defined separate functions for each arithmetic operation like addition, subtraction, multiplication, and division. Then, I set it up so the user can choose which operation they want to perform. After selecting the operation, the user enters two numbers, and the calculator shows the result on the screen. The program keeps running in a loop using a "while True" statement, so the user can perform as many calculations as they want until they choose to exit.
